@@ -1,0 +1,15 @@
+{
+  "name": "dualcord",
+  "version": "1.0.0",
+  "description": "DualCord - Discord dual account client with side-by-side server lists",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^28.3.3"
+  },
+  "author": "Braeden",
+  "license": "MIT",
+  "keywords": ["discord", "electron", "dual-account", "multi-account"]
+}
